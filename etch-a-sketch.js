@@ -11,7 +11,6 @@ row.classList.add('header');
 container.appendChild(row);
 row.appendChild(button);
 
-
 function createSketchPad() {
     let squares;
     do {
@@ -56,5 +55,4 @@ for (i = 0; i < 16; i++) {
         row.appendChild(grid);
     }
 }
-
 
